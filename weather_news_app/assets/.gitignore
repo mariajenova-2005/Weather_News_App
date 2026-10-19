@@ -1,0 +1,35 @@
+# Android
+/android/key.properties
+*.jks
+*.keystore
+
+# iOS
+/ios/Pods/
+/ios/*.xcworkspace
+
+# Flutter
+/Flutter.podspec
+/.flutter-plugins-dependencies
+/.flutter-plugins
+/.metadata
+/.packages
+.packages
+.pub-cache/
+
+# Build
+/build/
+*.apk
+*.ipa
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local development
+.env
+.env.local
